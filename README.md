@@ -1,1 +1,1 @@
-# Mortuja522-Sales-and-Inventory-Management-System
+#Sales-and-Inventory-Management-System
